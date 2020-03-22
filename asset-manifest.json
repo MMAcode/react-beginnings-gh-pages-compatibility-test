@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-beginnings-gh-pages-compatibility-test/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-beginnings-gh-pages-compatibility-test/static/js/main.f5104db4.chunk.js",
+    "main.js.map": "/react-beginnings-gh-pages-compatibility-test/static/js/main.f5104db4.chunk.js.map",
+    "runtime-main.js": "/react-beginnings-gh-pages-compatibility-test/static/js/runtime-main.99d8f9a4.js",
+    "runtime-main.js.map": "/react-beginnings-gh-pages-compatibility-test/static/js/runtime-main.99d8f9a4.js.map",
+    "static/js/2.099334c5.chunk.js": "/react-beginnings-gh-pages-compatibility-test/static/js/2.099334c5.chunk.js",
+    "static/js/2.099334c5.chunk.js.map": "/react-beginnings-gh-pages-compatibility-test/static/js/2.099334c5.chunk.js.map",
+    "index.html": "/react-beginnings-gh-pages-compatibility-test/index.html",
+    "precache-manifest.d2b581719df447b889130a4252bc1add.js": "/react-beginnings-gh-pages-compatibility-test/precache-manifest.d2b581719df447b889130a4252bc1add.js",
+    "service-worker.js": "/react-beginnings-gh-pages-compatibility-test/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-beginnings-gh-pages-compatibility-test/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.099334c5.chunk.js.LICENSE.txt": "/react-beginnings-gh-pages-compatibility-test/static/js/2.099334c5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-beginnings-gh-pages-compatibility-test/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99d8f9a4.js",
+    "static/js/2.099334c5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f5104db4.chunk.js"
+  ]
+}
